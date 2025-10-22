@@ -1,0 +1,2 @@
+# GDGOC
+Tugas Repo GDGOC
